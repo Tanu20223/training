@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbxGm1KX5bKohqRCHMcbDG9bEBE-9slZZFJQLHSxzZZM1rK8g6l7vyISGLNxEcpoR7e-pA/exec";
+  const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbw1O4xsuMd5efPGKR9_gqiiIeF1gHXZgUYoCcwB-gLTo3ffLhRQ_ZTF8lW9KrHDEotcpQ/exec";
 
   const phoneCheckForm = document.getElementById("phoneCheckForm");
   const trainingForm = document.getElementById("trainingForm");
@@ -105,6 +105,7 @@ followupForm.addEventListener("submit", async (e) => {
     }
   }
 });
+
 
 
 
